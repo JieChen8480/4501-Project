@@ -2,7 +2,6 @@
 
 Using jupyter notebook to access python, and download raw data from [new york city TLC Trip Record Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The total dataset is over 20GB including data since 2009. 
 
-Download, process, and analyze data from 3+ billion taxi and for-hire vehicle (Uber, Lyft, etc.) trips originating in New York City since 2009. There are separate sets of scripts for storing data in either a [PostgreSQL](https://www.postgresql.org/) or [ClickHouse](https://clickhouse.com/) database.
 
 ## Data preprocessing
 
