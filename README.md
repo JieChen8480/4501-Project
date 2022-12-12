@@ -1,5 +1,10 @@
 # New York City Taxi and Uber data
 
+Author: Zhangyue Chen (zc2678)
+Author: Jie Chen (jc5890)
+Project Group 1
+
+
 Using jupyter notebook to access python, and download raw data from [new york city TLC Trip Record Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The total dataset is over 20GB including data since 2009. 
 
 
